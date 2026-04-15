@@ -39,4 +39,4 @@ Gender: Females had a significantly higher survival rate than males.
 
 Class: First-class passengers were more likely to survive compared to third-class passengers.
 
-Age: Most passengers were between the ages of 20 and 40.# Data-Analytics-Internship-CodeAlpha.
+Age: Most passengers were between the ages of 20 and 40.
